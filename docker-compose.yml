@@ -14,7 +14,7 @@ services:
       - redis
 #    network_mode: "host"
     extra_hosts:
-      -  "docker.host: 192.168.49.1"
+      -  "docker.host: 1.1.49.1"
 
 #  rabbitmq:
 #    image: rabbitmq:3.7.8
