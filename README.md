@@ -37,12 +37,12 @@ notification to the cluster user and create/update a new record in Alert Model.
 - account: 90933027639046
 clusters:
 - details:
-email_id: soumyarout80@gmail.com
+email_id: XXX@gmail.com
 k8s_cluster_endpoint: http://192.168.49.1:8008/
 name: Phoenix
 slack_channel: NA
 - details:
-email_id: soumyarout80@gmail.com
+email_id: XXXXX0@gmail.com
 k8s_cluster_endpoint: http://192.168.49.1:8008/
 name: TinyUrl
 slack_channel: NA
